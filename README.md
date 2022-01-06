@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucas-rsnt. I'm a former dentist that discovered on coding a new oportunity to unload my ideas.
+- 👋 Hi, I’m @Lucas-rsnt. I'm a former dentist who discovered on coding a new oportunity to unload my ideas.
 - 👀 I’m interested in python, javascript, HTML, CSS.
 - 🌱 I’m currently learning the basics of coding, trying my best to improve myself.
 - 💞️ I’m looking to collaborate on everything that i can help.
